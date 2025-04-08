@@ -1,4 +1,4 @@
-# <iframe src="https://github.com/sponsors/RainbowScientist5/button" title="Sponsor RainbowScientist5" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>blackbeard-extension
+
 
 Blackbeard is a basic example of an agent-based GitHub Copilot Extension. It responds to messages like a pirate, using Copilot's LLM API and special system prompts. This repository should serve as an example of the building blocks of a Copilot Extension. See [index.js](/index.js) for the main logic.
 
